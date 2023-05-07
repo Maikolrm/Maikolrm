@@ -1,4 +1,4 @@
-![Web Development Banner](https://equinoxx.in/images/Courses-Banner/web-development.jpg)
+![Web Development Banner](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 
 <h1 align="center">Hi 👋, I'm Hernandez Maikol</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
