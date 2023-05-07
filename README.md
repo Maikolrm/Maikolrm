@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, React.**
 
-- 👨‍💻 All of my projects are available at [https://hernandez-maikol.netlify.app](hernandez-maikol.netlify.app)
+- 👨‍💻 All of my projects are available at [MyPortfolio](https://hernandez-maikol.netlify.app)
 
 - 💬 Ask me about **Frontend Development.**
 
