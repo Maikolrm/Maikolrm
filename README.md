@@ -1,3 +1,5 @@
+![Web Development Banner](https://equinoxx.in/images/Courses-Banner/web-development.jpg)
+
 <h1 align="center">Hi 👋, I'm Hernandez Maikol</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
